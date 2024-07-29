@@ -1,3 +1,14 @@
+Click Counter Practice Project
+Description
+This project is a simple React application designed to practice React fundamentals. It features a click counter where users can increment the count by clicking a button. The project is an introduction to React components, state management, and basic event handling.
+
+Features
+Click Counter: Increment the count each time the button is clicked.
+React Fundamentals: Practice with React components and state management.
+Simple UI: A clean and straightforward user interface.
+
+![Screenshot](https://github.com/Santiago3102/React-click/blob/master/Captura%20de%20pantalla%202024-07-29%20041105.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
